@@ -9,5 +9,4 @@ function init() {
   });
 }
 
-// Ensure the DOM is fully loaded before running the script
 window.addEventListener('DOMContentLoaded', init);
