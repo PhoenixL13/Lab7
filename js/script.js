@@ -4,7 +4,7 @@ function init() {
   const output = document.getElementById("textoutput");
   button.addEventListener("click", function () {
     const message = input.value;
-    alert("phoenix Ling: " + message);
+    alert("Phoenix Ling: " + message);
     output.textContent = message;
   });
 }
